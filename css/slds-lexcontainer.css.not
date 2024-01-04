@@ -231,7 +231,7 @@
 }
 #lexcontainer:not(html), #lexcontainer body{
   background:transparent;
-  font-size:.8125rem;
+  font-size:.8125rem !important;
 }
 #lexcontainer h1,
 #lexcontainer h2,
